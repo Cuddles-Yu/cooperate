@@ -3,7 +3,7 @@
 # # import pyperclip
 import re
 
-from 地圖資訊爬蟲.crawler.module.functions.common import *
+
 #
 from 地圖資訊爬蟲.crawler.module.functions import SqlDatabase
 import 地圖資訊爬蟲.crawler.tables.Store as Store
