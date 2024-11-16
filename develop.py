@@ -15,7 +15,7 @@ db = SqlDatabase.SqlDatabase('mapdb', 'root', '11236018')
 #     WHERE crawler_description IS NOT NULL and name LIKE '%店%'
 # ''')
 
-
+test3
 
 # data = load_json('./ckip/tagger/results/all.json')
 # first = True
