@@ -8,7 +8,7 @@ from 地圖資訊爬蟲.crawler.module.functions import SqlDatabase
 import 地圖資訊爬蟲.crawler.tables.Store as Store
 import 地圖資訊爬蟲.crawler.tables.Rate as Rate
 
-db = SqlDatabase.SqlDatabase('map', 'root', '11236018')
+db = SqlDatabase.SqlDatabase('map', 'root', '11236037')
 # result = db.fetch_column('all', 0, f'''
 #     SELECT name FROM stores
 #     WHERE crawler_description IS NOT NULL and name LIKE '%店%'
