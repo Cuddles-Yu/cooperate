@@ -7,6 +7,11 @@
   border-left-color: mediumblue;
 }
 
+.home-menu {
+  border-left-style: solid;
+  border-left-color: mediumblue;
+}
+
 .input-group{
   width: 230px;
 }
