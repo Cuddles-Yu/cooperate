@@ -1,6 +1,6 @@
 .home-page {
-  border-bottom-style: solid;  
-  border-bottom-color: mediumblue;
+  border-bottom-style: solid;
+  border-bottom-color: gray;
 }
 .home-menu {
   border-left-style: solid;
@@ -18,6 +18,11 @@
 
 body {
   padding-top: 90px;
+}
+
+.input-group-login{
+  display: flex;
+  margin-top: 5px;
 }
 
 .input-group-login{
