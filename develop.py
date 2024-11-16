@@ -1,9 +1,8 @@
 # import 地圖資訊爬蟲.crawler.module.modify_database as mdb
-# from 地圖資訊爬蟲.crawler.module.core_database import *
 # # import pyperclip
 import re
 
-from 地圖資訊爬蟲.crawler.module.functions.common import *
+
 #
 from 地圖資訊爬蟲.crawler.module.functions import SqlDatabase
 import 地圖資訊爬蟲.crawler.tables.Store as Store
@@ -15,7 +14,7 @@ db = SqlDatabase.SqlDatabase('map', 'root', '11236018')
 #     WHERE crawler_description IS NOT NULL and name LIKE '%店%'
 # ''')
 
-
+test3
 
 # data = load_json('./ckip/tagger/results/all.json')
 # first = True
